@@ -47,7 +47,7 @@ Terraform will display:
 EC2 Instance Public IP
 
 # 6. Destroy Infrastruce
-Terraform Destroy
+Terraform destroy -var="key_name=your-key-pair-name"
 
 # Security Best Practices
 
