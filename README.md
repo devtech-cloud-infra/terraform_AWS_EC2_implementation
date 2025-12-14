@@ -29,6 +29,7 @@ Existing AWS key pair
 
 # 1. Clone the Repository
 git clone https://github.com/devtech-cloud-infra/terraform_AWS_EC2_implementation.git
+
 cd terraform_AWS_EC2_implementation
 
 # 2. Initialize terraform and aws configure
