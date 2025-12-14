@@ -46,6 +46,9 @@ terraform apply -var="key_name=your-key-pair-name"
 Terraform will display:
 EC2 Instance Public IP
 
+# 6. Destroy Infrastruce
+Terraform Destroy
+
 # Security Best Practices
 
 No AWS credentials stored in code.
